@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import Navbar from './shared/Navbar'
-import HeroSection from './HeroSection'
+import HeroSection from './Herosection'
 import CategoryCarousel from './CategoryCrousel'
 import LatestJobs from './LatestJobs'
 import Footer from './shared/Footer'
